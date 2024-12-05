@@ -1,0 +1,738 @@
+[
+  {
+    "name": "АГРОФАК 100",
+    "brown_rust": "У",
+    "yellow_rust": "СВ",
+    "septoria": "СВ",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "АДЕЛЬ",
+    "brown_rust": "СВ",
+    "yellow_rust": "СВ",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "СУ"
+  },
+  {
+    "name": "АЛЕКСЕИЧ",
+    "brown_rust": "У",
+    "yellow_rust": "У",
+    "septoria": "СВ",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "АНКА",
+    "brown_rust": "СУ",
+    "yellow_rust": "СУ",
+    "septoria": "У",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "АНТОНИНА",
+    "brown_rust": "CУ",
+    "yellow_rust": "СВ",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "АРЕНА",
+    "brown_rust": "СУ",
+    "yellow_rust": "У",
+    "septoria": "У",
+    "dew": "СУ",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "АФИНА",
+    "brown_rust": "ПУ",
+    "yellow_rust": "ПУ",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "У"
+  },
+  {
+    "name": "АХМАТ",
+    "brown_rust": "У",
+    "yellow_rust": "ПУ",
+    "septoria": "СВ",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "БАГРАТ",
+    "brown_rust": "СУ",
+    "yellow_rust": "СУ",
+    "septoria": "СВ",
+    "dew": "СУ",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "БЕЗОСТАЯ 100",
+    "brown_rust": "У",
+    "yellow_rust": "ПУ",
+    "septoria": "СВ",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "БЛЕСК",
+    "brown_rust": "СВ",
+    "yellow_rust": "У",
+    "septoria": "СВ",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "БРИГАДА",
+    "brown_rust": "СУ",
+    "yellow_rust": "СВ",
+    "septoria": "СВ",
+    "dew": "СВ",
+    "fusarium": "В"
+  },
+  {
+    "name": "БУМБА",
+    "brown_rust": "ПУ",
+    "yellow_rust": "СВ",
+    "septoria": "СВ",
+    "dew": "СУ",
+    "fusarium": "В"
+  },
+  {
+    "name": "БУРАН 88",
+    "brown_rust": "СВ",
+    "yellow_rust": "У",
+    "septoria": "СВ",
+    "dew": "У",
+    "fusarium": "СУ"
+  },
+  {
+    "name": "ВАНЯ",
+    "brown_rust": "У",
+    "yellow_rust": "ПУ",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "ВАССА",
+    "brown_rust": "СУ",
+    "yellow_rust": "СВ",
+    "septoria": "СВ",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "ВЕК",
+    "brown_rust": "У",
+    "yellow_rust": "СУ",
+    "septoria": "У",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "ВЕЛЕНА",
+    "brown_rust": "У",
+    "yellow_rust": "У",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "СУ"
+  },
+  {
+    "name": "ВЕХА",
+    "brown_rust": "СУ",
+    "yellow_rust": "СУ",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "ВИД",
+    "brown_rust": "У",
+    "yellow_rust": "У",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "ВИДЕЯ",
+    "brown_rust": "У",
+    "yellow_rust": "У",
+    "septoria": "СВ",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "ВЫЗОВ",
+    "brown_rust": "У",
+    "yellow_rust": "СУ",
+    "septoria": "У",
+    "dew": "У",
+    "fusarium": "СУ"
+  },
+  {
+    "name": "ГЕЛИОС 15",
+    "brown_rust": "У",
+    "yellow_rust": "СВ",
+    "septoria": "СУ",
+    "dew": "СВ",
+    "fusarium": "В"
+  },
+  {
+    "name": "ГЕРДА",
+    "brown_rust": "У",
+    "yellow_rust": "СУ",
+    "septoria": "В",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "ГОМЕР",
+    "brown_rust": "СУ",
+    "yellow_rust": "У",
+    "septoria": "В",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "ГРАФ",
+    "brown_rust": "У",
+    "yellow_rust": "СУ",
+    "septoria": "СУ",
+    "dew": "СУ",
+    "fusarium": "В"
+  },
+  {
+    "name": "ГРОМ",
+    "brown_rust": "В",
+    "yellow_rust": "СВ",
+    "septoria": "В",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "ГУРТ",
+    "brown_rust": "В",
+    "yellow_rust": "СВ",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "ДАНКО",
+    "brown_rust": "СУ",
+    "yellow_rust": "У",
+    "septoria": "У",
+    "dew": "У",
+    "fusarium": "СУ"
+  },
+  {
+    "name": "ДМИТРИЙ",
+    "brown_rust": "ПУ",
+    "yellow_rust": "ПУ",
+    "septoria": "В",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "ДУПЛЕТ",
+    "brown_rust": "ПУ",
+    "yellow_rust": "СУ",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "ЕЛАНЧИК",
+    "brown_rust": "У",
+    "yellow_rust": "СВ",
+    "septoria": "СВ",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "ЕРЕМЕЕВНА",
+    "brown_rust": "ПУ",
+    "yellow_rust": "ПУ",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "ЕСАУЛ",
+    "brown_rust": "ПУ",
+    "yellow_rust": "ПУ",
+    "septoria": "ПУ",
+    "dew": "У",
+    "fusarium": "СУ"
+  },
+  {
+    "name": "ЖИВА",
+    "brown_rust": "СУ",
+    "yellow_rust": "СВ",
+    "septoria": "СВ",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "ИЗАБЕЛЬ",
+    "brown_rust": "СУ",
+    "yellow_rust": "СВ",
+    "septoria": "В",
+    "dew": "СУ",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "ИЛИАДА",
+    "brown_rust": "СВ",
+    "yellow_rust": "СУ",
+    "septoria": "У",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "КАВАЛЕРКА",
+    "brown_rust": "У",
+    "yellow_rust": "У",
+    "septoria": "СВ",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "КАЛЫМ",
+    "brown_rust": "ПУ",
+    "yellow_rust": "СВ",
+    "septoria": "У",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "КАРАВАН",
+    "brown_rust": "СУ",
+    "yellow_rust": "СУ",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "КЛАССИКА",
+    "brown_rust": "ПУ",
+    "yellow_rust": "ПУ",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "СУ"
+  },
+  {
+    "name": "КОЛЬЧУГА",
+    "brown_rust": "У",
+    "yellow_rust": "ПУ",
+    "septoria": "СВ",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "КУЛИЧ",
+    "brown_rust": "У",
+    "yellow_rust": "У",
+    "septoria": "У",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "КУРС",
+    "brown_rust": "У",
+    "yellow_rust": "У",
+    "septoria": "СУ",
+    "dew": "СУ",
+    "fusarium": "СУ"
+  },
+  {
+    "name": "КУБАНЬ",
+    "brown_rust": "У",
+    "yellow_rust": "СВ",
+    "septoria": "СВ",
+    "dew": "В",
+    "fusarium": "В"
+  },
+  {
+    "name": "КУРЬЕР",
+    "brown_rust": "СУ",
+    "yellow_rust": "СВ",
+    "septoria": "СВ",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "ЛАУРЕАТ",
+    "brown_rust": "СВ",
+    "yellow_rust": "У",
+    "septoria": "ПУ",
+    "dew": "СУ",
+    "fusarium": "В"
+  },
+  {
+    "name": "ЛЕБЕДЬ",
+    "brown_rust": "ПУ",
+    "yellow_rust": "СВ",
+    "septoria": "СВ",
+    "dew": "ПУ",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "ЛЕО",
+    "brown_rust": "У",
+    "yellow_rust": "ПУ",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "У"
+  },
+  {
+    "name": "ЛИГА 1",
+    "brown_rust": "У",
+    "yellow_rust": "СВ",
+    "septoria": "В",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "МАДАМ",
+    "brown_rust": "У",
+    "yellow_rust": "У",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "У"
+  },
+  {
+    "name": "МАРКИЗ",
+    "brown_rust": "У",
+    "yellow_rust": "СУ",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "МИГ",
+    "brown_rust": "У",
+    "yellow_rust": "СВ",
+    "septoria": "СВ",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "МИЛАША",
+    "brown_rust": "СУ",
+    "yellow_rust": "СУ",
+    "septoria": "СВ",
+    "dew": "СУ",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "МОНЭ",
+    "brown_rust": "У",
+    "yellow_rust": "ПУ",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "МОРОЗКО",
+    "brown_rust": "У",
+    "yellow_rust": "У",
+    "septoria": "У",
+    "dew": "ПУ",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "НИЛ",
+    "brown_rust": "У",
+    "yellow_rust": "СВ",
+    "septoria": "СВ",
+    "dew": "У",
+    "fusarium": "СУ"
+  },
+  {
+    "name": "НОТА",
+    "brown_rust": "В",
+    "yellow_rust": "СВ",
+    "septoria": "СВ",
+    "dew": "СВ",
+    "fusarium": "В"
+  },
+  {
+    "name": "ОРДЫНКА",
+    "brown_rust": "СУ",
+    "yellow_rust": "У",
+    "septoria": "СВ",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "ПАРСЕК",
+    "brown_rust": "У",
+    "yellow_rust": "У",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "ПЕСНЯ",
+    "brown_rust": "СУ",
+    "yellow_rust": "У",
+    "septoria": "ПУ",
+    "dew": "У",
+    "fusarium": "У"
+  },
+  {
+    "name": "ПОБЕДА 75",
+    "brown_rust": "СУ",
+    "yellow_rust": "У",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "ПРАЙМ",
+    "brown_rust": "У",
+    "yellow_rust": "ПУ",
+    "septoria": "У",
+    "dew": "СУ",
+    "fusarium": "В"
+  },
+  {
+    "name": "ПРАСКОВЬЯ",
+    "brown_rust": "СВ",
+    "yellow_rust": "У",
+    "septoria": "СУ",
+    "dew": "СУ",
+    "fusarium": "В"
+  },
+  {
+    "name": "РОССЫПЬ",
+    "brown_rust": "У",
+    "yellow_rust": "СВ",
+    "septoria": "СВ",
+    "dew": "СУ",
+    "fusarium": "В"
+  },
+  {
+    "name": "САМБЕК",
+    "brown_rust": "У",
+    "yellow_rust": "ПУ",
+    "septoria": "У",
+    "dew": "СУ",
+    "fusarium": "В"
+  },
+  {
+    "name": "СВАРОГ",
+    "brown_rust": "У",
+    "yellow_rust": "ПУ",
+    "septoria": "СУ",
+    "dew": "СУ",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "СИЛА",
+    "brown_rust": "ПУ",
+    "yellow_rust": "СВ",
+    "septoria": "СВ",
+    "dew": "У",
+    "fusarium": "У"
+  },
+  {
+    "name": "СОБЕРБАШ",
+    "brown_rust": "У",
+    "yellow_rust": "СУ",
+    "septoria": "СВ",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "СОТКА",
+    "brown_rust": "У",
+    "yellow_rust": "СУ",
+    "septoria": "СУ",
+    "dew": "СУ",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "СТАН",
+    "brown_rust": "СУ",
+    "yellow_rust": "СВ",
+    "septoria": "СВ",
+    "dew": "ПУ",
+    "fusarium": "В"
+  },
+  {
+    "name": "СТЕПЬ",
+    "brown_rust": "У",
+    "yellow_rust": "СВ",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "СТИЛЬ 18",
+    "brown_rust": "СУ",
+    "yellow_rust": "СУ",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "СУ"
+  },
+  {
+    "name": "ТАБОР",
+    "brown_rust": "СУ",
+    "yellow_rust": "СУ",
+    "septoria": "СУ",
+    "dew": "СУ",
+    "fusarium": "В"
+  },
+  {
+    "name": "ТАВРИДА",
+    "brown_rust": "У",
+    "yellow_rust": "В",
+    "septoria": "У",
+    "dew": "У",
+    "fusarium": "СУ"
+  },
+  {
+    "name": "ТАНЯ",
+    "brown_rust": "ПУ",
+    "yellow_rust": "ПУ",
+    "septoria": "ПУ",
+    "dew": "У",
+    "fusarium": "СУ"
+  },
+  {
+    "name": "ТАЯ",
+    "brown_rust": "У",
+    "yellow_rust": "ПУ",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "ТИМИРЯЗЕВКА 150",
+    "brown_rust": "У",
+    "yellow_rust": "У",
+    "septoria": "СВ",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "ТРИО",
+    "brown_rust": "ПУ",
+    "yellow_rust": "СУ",
+    "septoria": "СВ",
+    "dew": "ПУ",
+    "fusarium": "В"
+  },
+  {
+    "name": "УРУП",
+    "brown_rust": "У",
+    "yellow_rust": "У",
+    "septoria": "У",
+    "dew": "ПУ",
+    "fusarium": "У"
+  },
+  {
+    "name": "УТРИШ",
+    "brown_rust": "СУ",
+    "yellow_rust": "СУ",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "ФЕДОР",
+    "brown_rust": "У",
+    "yellow_rust": "У",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "ХИТ",
+    "brown_rust": "СВ",
+    "yellow_rust": "СВ",
+    "septoria": "У",
+    "dew": "У",
+    "fusarium": "У"
+  },
+  {
+    "name": "ЦАЦА",
+    "brown_rust": "У",
+    "yellow_rust": "У",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "СУ"
+  },
+  {
+    "name": "ШАРМ",
+    "brown_rust": "У",
+    "yellow_rust": "СВ",
+    "septoria": "В",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "ШКОЛА",
+    "brown_rust": "У",
+    "yellow_rust": "СВ",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "ЭММА",
+    "brown_rust": "У",
+    "yellow_rust": "ПУ",
+    "septoria": "СУ",
+    "dew": "У",
+    "fusarium": "В"
+  },
+  {
+    "name": "ЭНЕРГИЯ",
+    "brown_rust": "У",
+    "yellow_rust": "ПУ",
+    "septoria": "СВ",
+    "dew": "СУ",
+    "fusarium": "В"
+  },
+  {
+    "name": "ЭТНОС",
+    "brown_rust": "СУ",
+    "yellow_rust": "СВ",
+    "septoria": "СВ",
+    "dew": "СВ",
+    "fusarium": "В"
+  },
+  {
+    "name": "ЮБИЛЕЙНАЯ 100",
+    "brown_rust": "ПУ",
+    "yellow_rust": "В",
+    "septoria": "СВ",
+    "dew": "СВ",
+    "fusarium": "В"
+  },
+  {
+    "name": "ЮКА",
+    "brown_rust": "В",
+    "yellow_rust": "СВ",
+    "septoria": "СВ",
+    "dew": "У",
+    "fusarium": "СВ"
+  },
+  {
+    "name": "ЮМПА",
+    "brown_rust": "У",
+    "yellow_rust": "СВ",
+    "septoria": "ПУ",
+    "dew": "У",
+    "fusarium": "В"
+  }
+]

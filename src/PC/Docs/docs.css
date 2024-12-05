@@ -1,0 +1,60 @@
+.docs{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: startAnim .7s forwards;
+}
+@keyframes startAnim{
+    from{opacity: 0;}
+    to{opacity: 1;}
+}
+.docs .table_list{
+    margin: 0;
+    padding: 0;
+    height: 80%;
+    overflow-y: scroll;
+    width: 75%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-between;
+}
+.docs .table_list::-webkit-scrollbar{
+    width: 10px;
+    background-color: transparent;
+}
+.docs .table_list::-webkit-scrollbar-thumb{
+    background-color: #0A7F29;
+    border-radius: 5px;
+}
+.docs .table_list li{
+    width: 100%;
+    list-style-type: none;
+    background: linear-gradient(to left, transparent 50%, #af9b4a 50%) right;
+    background-color: #D2B746;
+    background-size: 200% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: "Jura";
+    color: whitesmoke;
+    font-size: 32px;
+    font-weight: 700;
+    padding: 10px 0;
+    border-radius: 7px;
+    transition-duration: .4s;
+}
+.docs .table_list li:not(:last-child){
+    margin-bottom: 10px;
+}
+.docs .table_list li:hover{
+    cursor: pointer;
+    background-position: 0 100%;
+}
+
+@media(max-width: 1300px){
+    .docs .table_list li{
+        font-size: 25px
+    }
+}

@@ -1,0 +1,44 @@
+.mob{
+    width: 100%;
+    height: 88vh;
+}
+.mob .back{
+    position: fixed;
+    z-index: -1;
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+.mob .main_back{
+    position: absolute;
+    z-index: -2;
+    width: 100%;
+    height: 100%;
+    background-color: #6f6330;
+}
+.mob .back.active{
+    opacity: 1;
+}
+.mob .back.img_0{
+    background-image: url("../PC/img/back1.jpg");
+}
+.mob .back.img_1{
+    background-image: url("../PC/img/back2.jpg");
+}
+.mob .back.img_2{
+    background-image: url("../PC/img/back3.jpg");
+}
+.mob .back.img_3{
+    background-image: url("../PC/img/back4.jpg");
+}
+.mob .back.img_4{
+    background-image: url("../PC/img/back5.jpg");
+}
+.mob .back.img_5{
+    background-image: url("../PC/img/back6.jpg");
+}
+.mob .back.img_6{
+    background-image: url("../PC/img/back7.jpg");
+}

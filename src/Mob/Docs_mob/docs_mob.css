@@ -1,0 +1,31 @@
+.docs_mob{
+    width: 100%;
+    height: calc(100vh - 200px);
+}
+.docs_mob .table_list{
+    width: 100%;
+    height: 100%;
+    overflow-y: scroll;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: flex-start;
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+}
+.docs_mob .table_list li{
+    list-style-type: none;
+    width: 90%;
+    background-color: #D2B746;
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: "Jura";
+    font-weight: 700;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px 10px
+}
+.docs_mob .table_list li:not(:last-child){
+    margin-bottom: 10px;
+}

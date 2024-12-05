@@ -1,0 +1,86 @@
+.header_mob{
+    width: 100%;
+}
+.header_mob .main{
+    background-color: rgba(255, 255, 255, 0.6);
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+    border-radius: 0 0 7px 0;
+}
+.header_mob .main img{
+    width: 55px;
+}
+.header_mob .main .menu{
+    background-color: #31ADD3;
+    border: none;
+    height: 55px;
+    width: 55px;
+    border-radius: 7px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+    padding: 5px;
+}
+.header_mob .main .menu div{
+    background-color: whitesmoke;
+    width: 18px;
+    height: 18px;
+    border-radius: 2px;
+}
+
+.header_mob .left_menu{
+    position: absolute;
+    z-index: 100;
+    left: -200px;
+    background-color: rgba(255, 255, 255, 0.6);
+    width: 40%;
+    padding: 10px 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0 7px 7px 0;
+}
+.header_mob .left_menu.active{
+    animation: activeMenu .4s forwards;
+}
+.header_mob .left_menu.unactive{
+    animation: antiActiveMenu .4s forwards;
+}
+.header_mob .left_menu li{
+    list-style-type: none;
+    width: 90%;
+    text-align: center;
+    font-family: "Jura";
+    font-weight: 700;
+    font-size: 20px;
+    color: whitesmoke;
+    background-color: #31ADD3;
+    margin-bottom: 10px;
+    padding: 3px 0;
+    border-radius: 5px;
+}
+.header_mob .left_menu li:last-child{
+    margin-bottom: 0;
+}
+@keyframes activeMenu{
+    from{
+        left: -200px;
+    }
+    to{
+        left: 0;
+    }
+}
+@keyframes antiActiveMenu{
+    from{
+        left: 0;
+    }
+    to{
+        left: -200px;
+    }
+}

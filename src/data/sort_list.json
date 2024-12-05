@@ -1,0 +1,938 @@
+[
+  {
+    "name": "АГРОФАК 100",
+    "year": 2022,
+    "region": "5, 6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "АДЕЛЬ",
+    "year": 2014,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "АЙВИНА",
+    "year": 2009,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "АЛЕКСЕИЧ",
+    "year": 2017,
+    "region": "5, 6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "АНКА (ДВУРУЧКА)",
+    "year": 2016,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "АНТОНИНА",
+    "year": 2016,
+    "region": "6-8",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "АФИНА (ДВУРУЧКА)",
+    "year": 2009,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "АХМАТ",
+    "year": 2020,
+    "region": "5, 6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "БАГРАТ",
+    "year": 2015,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "БАИР",
+    "year": 2009,
+    "region": "8",
+    "registry": "ФИЛЛЕР",
+    "originator": "ФИЛЛЕР",
+    "type": 0
+  },
+  {
+    "name": "БАТЬКО",
+    "year": 2003,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "БЕЗОСТАЯ 1",
+    "year": 1959,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "БЕЗОСТАЯ 100",
+    "year": 2017,
+    "region": "5, 6, 8",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "БИРЮЗА",
+    "year": 2008,
+    "region": "4, 5, 7",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "БРИГАДА",
+    "year": 2012,
+    "region": "6, 8",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "БУЛГУН",
+    "year": 2007,
+    "region": "8",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "БУМБА",
+    "year": 2021,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ВАНЯ",
+    "year": 2018,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ВАССА",
+    "year": 2011,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ВЕЛЕНА (ДВУРУЧКА)",
+    "year": 2017,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ВЕРШИНА",
+    "year": 2011,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ВЕХА",
+    "year": 2017,
+    "region": "5, 6, 8",
+    "registry": "ФИЛЛЕР",
+    "originator": "ФИЛЛЕР",
+    "type": 0
+  },
+  {
+    "name": "ВИД",
+    "year": 2017,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ВИДЕЯ",
+    "year": 2019,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ВИЗА",
+    "year": 2007,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ВИТА",
+    "year": 2004,
+    "region": "6",
+    "registry": "ФИЛЛЕР",
+    "originator": "ФИЛЛЕР",
+    "type": 0
+  },
+  {
+    "name": "ВОСТОРГ",
+    "year": 2005,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ГЕРДА",
+    "year": 2019,
+    "region": "6, 8",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ГОМЕР",
+    "year": 2020,
+    "region": "5, 6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ГРАФ",
+    "year": 2018,
+    "region": "2, 3, 6, 8",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ГРАЦИЯ",
+    "year": 2008,
+    "region": "6",
+    "registry": "ФИЛЛЕР",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ГРОМ",
+    "year": 2010,
+    "region": "3, 5, 6, 7, 8",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ГУРТ",
+    "year": 2016,
+    "region": "6, 8",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ДЕЯ",
+    "year": 2002,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ДМИТРИЙ",
+    "year": 2011,
+    "region": "6",
+    "registry": "ФИЛЛЕР",
+    "originator": "ФИЛЛЕР",
+    "type": 0
+  },
+  {
+    "name": "ДОКА",
+    "year": 2005,
+    "region": "6",
+    "registry": "ФИЛЛЕР",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ДОЛЯ",
+    "year": 2014,
+    "region": "6, 8",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ДУПЛЕТ",
+    "year": 2018,
+    "region": "6",
+    "registry": "ФИЛЛЕР",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ЕЛАНЧИК",
+    "year": 2020,
+    "region": "5, 6, 8",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ЕСАУЛ",
+    "year": 2006,
+    "region": "6, 8",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ЖИВА",
+    "year": 2017,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ЗИМНИЦА",
+    "year": 2009,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ЗИМТРА",
+    "year": 2007,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ИЗАБЕЛЬ",
+    "year": 2023,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ИЛИАДА",
+    "year": 2020,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ИРИШКА",
+    "year": 2009,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "КАВАЛЕРКА",
+    "year": 2019,
+    "region": "5, 6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "КАЛЫМ",
+    "year": 2011,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "КАРАВАН (ДВУРУЧКА)",
+    "year": 2018,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "КЛАССИКА",
+    "year": 2021,
+    "region": "5, 6, 8",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "КОЛЛЕГА",
+    "year": 2007,
+    "region": "6",
+    "registry": "ФИЛЛЕР",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "КОЛЬЧУГА",
+    "year": 2023,
+    "region": "6",
+    "registry": "",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "КРАСНОДАРСКАЯ 99",
+    "year": 2003,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "КРАСТАЛ",
+    "year": 2009,
+    "region": "5",
+    "registry": "ФИЛЛЕР",
+    "originator": "ФИЛЛЕР",
+    "type": 0
+  },
+  {
+    "name": "КУБАНЬ (УЛЬТРА 11)",
+    "year": 2022,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "КУМА",
+    "year": 2007,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "КУРЕНЬ",
+    "year": 2012,
+    "region": "6, 8",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "КУРС",
+    "year": 2015,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ЛАСТОЧКА (ДВУРУЧКА)",
+    "year": 2005,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ЛАУРЕАТ",
+    "year": 2014,
+    "region": "6, 8",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ЛЕБЕДЬ",
+    "year": 2009,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ЛЕО (ДВУРУЧКА)",
+    "year": 2022,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ЛИГА 1",
+    "year": 2009,
+    "region": "6, 8",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "МАЙКОПЧАНКА",
+    "year": 2012,
+    "region": "6",
+    "registry": "ФИЛЛЕР",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "МАРКИЗ",
+    "year": 2019,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "МИГ",
+    "year": 2022,
+    "region": "5, 6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "МОНЭ",
+    "year": 2022,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "МОРОЗКО",
+    "year": 2015,
+    "region": "6, 8",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "МОСКВИЧ",
+    "year": 2006,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "НОТА",
+    "year": 2006,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ОЛЬХОН",
+    "year": 2014,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ПАМЯТЬ",
+    "year": 2004,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ПЕРВИЦА",
+    "year": 2008,
+    "region": "6",
+    "registry": "ФИЛЛЕР",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ПЕСНЯ",
+    "year": 2023,
+    "region": "5, 6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ПОБЕДА 50",
+    "year": 1998,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ПОБЕДА 75",
+    "year": 2023,
+    "region": "5, 6, 8",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ПРИКУМСКАЯ 140",
+    "year": 2003,
+    "region": "6",
+    "registry": "ФИЛЛЕР",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ПРОТОН",
+    "year": 2011,
+    "region": "6, 8",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "РОССЫПЬ",
+    "year": 2021,
+    "region": "6, 8",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "СВАРОГ",
+    "year": 2017,
+    "region": "3, 6, 7, 8",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "СИЛА",
+    "year": 2010,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "СОБЕРБАШ",
+    "year": 2019,
+    "region": "5, 6, 8",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "СТАН",
+    "year": 2015,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "СТАРШИНА",
+    "year": 2003,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "СТЕПЬ",
+    "year": 2018,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "СТИЛЬ 18",
+    "year": 2021,
+    "region": "5, 6, 8",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ТАБОР",
+    "year": 2013,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ТАНЯ",
+    "year": 2005,
+    "region": "6, 8",
+    "registry": "ФИЛЛЕР",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ТАУЛАН\n(ДВУРУЧКА)*6",
+    "year": 2021,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ТВОРЕЦ",
+    "year": 2011,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ТИМИРЯЗЕВКА 150",
+    "year": 2019,
+    "region": "2, 5, 6, 8",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ТРИО",
+    "year": 2013,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "УРУП",
+    "year": 2015,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "УТРИШ",
+    "year": 2011,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ФЁДОР",
+    "year": 2022,
+    "region": "5, 6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ФОРТУНА",
+    "year": 2006,
+    "region": "6",
+    "registry": "ФИЛЛЕР",
+    "originator": "ФИЛЛЕР",
+    "type": 0
+  },
+  {
+    "name": "ХАМДАН",
+    "year": 2021,
+    "region": "6, 8",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ХАСЫР",
+    "year": 2015,
+    "region": "8",
+    "registry": "ФИЛЛЕР",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ЧЕРНОЗЕМКА 115",
+    "year": 2011,
+    "region": "5, 7",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ШАРМ",
+    "year": 2021,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ШКОЛА",
+    "year": 2022,
+    "region": "5, 6, 7, 8",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ЭТНОС",
+    "year": 2012,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ЮБИЛЕЙНАЯ 100",
+    "year": 2004,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ЮЖАНКА",
+    "year": 2012,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ЮКА",
+    "year": 2012,
+    "region": "6, 7",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ЮМПА",
+    "year": 2010,
+    "region": "6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ЮНОНА",
+    "year": 2008,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 0
+  },
+  {
+    "name": "ЯШКУЛЯНКА",
+    "year": 2003,
+    "region": "8",
+    "registry": "ФИЛЛЕР",
+    "originator": "ФИЛЛЕР",
+    "type": 0
+  },
+  {
+    "name": "ЕРЕМЕЕВНА",
+    "year": 2015,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 1
+  },
+  {
+    "name": "ОРДЫНКА",
+    "year": 2020,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 1
+  },
+  {
+    "name": "ПРАЙМ",
+    "year": 2023,
+    "region": "1-12",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 1
+  },
+  {
+    "name": "ПРАСКОВЬЯ",
+    "year": 2013,
+    "region": "6,8",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 1
+  },
+  {
+    "name": "ШАРАДА",
+    "year": 2006,
+    "region": "6",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 1
+  },
+  {
+    "name": "ДАНКО",
+    "year": 2023,
+    "region": "6,8,10",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 2
+  },
+  {
+    "name": "КУЛИЧ",
+    "year": 2023,
+    "region": "2,3,6,8,9,10",
+    "registry": "СИЛЬНЫЙ",
+    "originator": "СИЛЬНЫЙ",
+    "type": 2
+  },
+  {
+    "name": "КУРЬЕР",
+    "year": 2012,
+    "region": "5,6",
+    "registry": "ЦЕННЫЙ",
+    "originator": "ЦЕННЫЙ",
+    "type": 2
+  },
+  {
+    "name": "ТАЯ",
+    "year": 2022,
+    "region": "3,4",
+    "registry": "ФИЛЛЕР",
+    "originator": "СИЛЬНЫЙ",
+    "type": 2
+  }
+]

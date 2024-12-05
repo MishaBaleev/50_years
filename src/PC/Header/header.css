@@ -1,0 +1,58 @@
+.header{
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+    height: 90px;
+    background-color: rgba(255, 255, 255, 0.6);
+    opacity: 1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}
+.header .but{
+    font-size: 45px;
+    font-family: "Jura";
+    font-weight: 500;
+    color: whitesmoke;
+    background-color: #31add3;
+    border: none;
+    border-radius: 10px;
+    padding: 0 50px;
+    transition-duration: .4s;
+}
+.header .but:hover{
+    cursor: pointer;
+    background-color: #0c9fcc;
+}
+.header .but.active{
+    box-shadow: 0 5px 5px #0A7F29;
+}
+.header .logo{
+    position: absolute;
+    right: 30px;
+    width: 75px;
+}
+@media(max-width: 1500px){
+    .header .but{
+        padding: 0 30px;
+    }
+    .header .logo{
+        position: absolute;
+        right: 20px;
+        width: 75px;
+    }
+}
+@media(max-height: 600px){
+    .header{
+        height: 70px
+    }
+    .header .logo{
+        position: absolute;
+        right: 30px;
+        width: 55px;
+    }
+    .header .but{
+        font-size: 35px;
+    }
+}
